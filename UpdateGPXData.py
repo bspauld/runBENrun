@@ -31,8 +31,8 @@ print('')
 runID = 0
 
 #path to data
-path = 'C:/Work/Projects/RunBENRun/Data/nikedata/Extracted_GPS/'
-outpath =  'C:/Work/Projects/RunBENRun/Data/nikedata/output/'
+path = 'input path'
+outpath =  'output folder path'
 
 #write the sumary results of each run to a summary file for later analysis
 summaryfile = open(outpath+'rBr_summaryfile.txt', 'a' )
