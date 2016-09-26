@@ -8,7 +8,10 @@
 # Author:      Benjamin Spaulding - @gisdoctor
 #
 # Created:     August/08/2016
-
+#
+# Instructions: the user will need to set the input and output directories.  Input - Line 53, Output - Line 70  
+#
+#
 # tcx parser based on https://github.com/jhofman/fitnesshacks
 # Shapely and Fiona are also awesome -
 #       http://toblerity.org/fiona/manual.html
@@ -46,7 +49,8 @@ def findtext(e, name, default=None):
     except:
         return default
 
-path = 'C:/Work/Projects/runBENrun/Data/test/'
+#Set input data path
+path = ''
 
 listing = os.listdir(path)
 
@@ -62,8 +66,8 @@ for infile in listing:
 
     print("Building "+outputShapefileName + " Shapefile")
 
-    #output folder
-    outpath =  'C:/Work/Projects/runBENrun/Data/tcx_shapefiles/2016/'
+    #output folder location
+    outpath =  ''
 
     istream = open(path+'/'+inputFile,'r')
 
