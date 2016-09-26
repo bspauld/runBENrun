@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------------
 # Name:        TCXtoShape.py
-# Purpose:     Simple script to convert a TCX file into a point shapefile
+# Purpose:     Simple script to convert a TCX file into a line shapefile
 #
 #               User will need to set the input file, and output filename and
 #               directory
