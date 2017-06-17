@@ -4,7 +4,7 @@
 #               including distance (miles,feet,meters), and speed (by miles,feet,meters)
 #               and save output to point shapefile
 #
-# Author:       Ben Spaulding
+# Author:       Ben Spaulding @thebenspaulding
 #
 # Created:      November, 2016
 # Copyright:
