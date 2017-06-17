@@ -19,7 +19,7 @@
 	9. Update runtype column in runID table 
 
 
-	Author - Benjamin Spaulding @gisdoctor
+	Author - Benjamin Spaulding @thebenspaulding
 
 	Created - October 2016
 
