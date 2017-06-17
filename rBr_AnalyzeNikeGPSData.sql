@@ -8,7 +8,7 @@
 
 	Code built using PostgreSQL and PostGIS
 	
-	Author - Benjamin Spaulding @gisdoctor
+	Author - Benjamin Spaulding @thebenspaulding
 
 	Created - October 2016
 
