@@ -5,7 +5,7 @@
 #               User will need to set the input file(s) directory (line 47),
 #               and output file(s) directory (line 53)
 #
-# Author:      Benjamin Spaulding - @gisdoctor
+# Author:      Benjamin Spaulding - @thebenspaulding
 #
 # Created:     October/2016
 
