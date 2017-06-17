@@ -2,7 +2,7 @@
 # Name:         renameGPXfiles.py
 # Purpose:      Rename GPXfiles in set directory
 #
-# Author:       Ben Spaulding
+# Author:       Ben Spaulding @thebenspaulding
 #
 # Created:      Feb, 6, 2016
 #-------------------------------------------------------------------------------
