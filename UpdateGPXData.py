@@ -3,7 +3,7 @@
 # Purpose:      For each formatted GPX file, calculate several additional stats
 #               including distance (miles,feet,meters), and speed (by miles,feet,meters)
 #
-# Author:       Ben Spaulding
+# Author:       Ben Spaulding @thebenspaulding
 #
 # Created:      Feb, 28, 2016
 # Copyright:
