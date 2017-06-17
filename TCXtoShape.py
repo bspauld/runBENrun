@@ -5,7 +5,7 @@
 #               User will need to set the input file, and output filename and
 #               directory
 #
-# Author:      Benjamin Spaulding - @gisdoctor
+# Author:      Benjamin Spaulding - @thebenspaulding
 #
 # Created:     August/08/2016
 #
